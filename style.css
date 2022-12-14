@@ -87,18 +87,18 @@ body {
   border-top-right-radius: 10px;
 }
 
-.clock .seconds .hand {
+.clock .seconds{
   width: 3px;
   height: 40%;
   background-color: red;
 }
 
-.clock .minutes .hand {
+.clock .minutes {
   width: 7px;
   height: 35%;
   background-color: black;
 }
-.clock .hours .hand {
+.clock .hours {
   width: 10px;
   height: 25%;
   background-color: black;
